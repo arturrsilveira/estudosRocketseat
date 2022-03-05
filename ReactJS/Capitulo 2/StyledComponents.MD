@@ -14,7 +14,7 @@ Para fazer a instalação utilizamos o comando a seguir:
 yarn add styled-components
 ```
 
-Não utilizaremos Classes (ClassName) para estilizar os componentes, criaremos componentes ja estilizados. Desta forma não iremos atribuir uma classe (ClassName) em uma TAG do tipo <h1> por exemplo
+Não utilizaremos Classes (ClassName) para estilizar os componentes, criaremos componentes ja estilizados. Desta forma não iremos atribuir uma classe (ClassName) em uma TAG do tipo < h1 > por exemplo
 
 Dando prosseguimento ao tutorial da nossa aula faremos a importação de styled de dentro do pacote styled-components no componente App.tsx
 
