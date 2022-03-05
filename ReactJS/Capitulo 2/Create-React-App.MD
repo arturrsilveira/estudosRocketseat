@@ -45,7 +45,7 @@ Na pasta src excluiremos os arquivos:
 
 E por fim na pasta raiz do projeto excluiremos o arquivo Readme, ficando conforme a imagem abaixo nossa pasta do projeto:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b17ef09-1a1f-44f2-b151-3941a058283e/Sem_ttulo.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b17ef09-1a1f-44f2-b151-3941a058283e/Sem_ttulo.jpg)
+![https://github.com/arturrsilveira/estudosRocketseat/blob/main/ReactJS/Capitulo%202/cra.jpg](https://github.com/arturrsilveira/estudosRocketseat/blob/main/ReactJS/Capitulo%202/cra.jpg)
 
 Dentro do arquivo index.html dentro da pasta public excluimos as linhas entre as TAGS:
 
