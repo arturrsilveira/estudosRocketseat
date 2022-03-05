@@ -28,7 +28,7 @@ yarn add @types/styled-components -D
 
 O Parâmetro -D se faz necessário pois esta é uma dependência der desenvolvimento e não de produção, desta forma ao final da aplicação ela não fará parte do código final .
 
-Portanto faremos a substituição da tag <h1> por um componente estilizado do tipo <h1> que receberá as estilizações que desejarmos e após utilizaremos este componente criado e estilizado como se fosse uma tag HTML, conforme podemos ver abaixo:
+Portanto faremos a substituição da tag < h1 > por um componente estilizado do tipo < h1 > que receberá as estilizações que desejarmos e após utilizaremos este componente criado e estilizado como se fosse uma tag HTML, conforme podemos ver abaixo:
 ![https://github.com/arturrsilveira/estudosRocketseat/blob/main/ReactJS/Capitulo%202/sty2.png](https://github.com/arturrsilveira/estudosRocketseat/blob/main/ReactJS/Capitulo%202/sty2.png)
 
 
