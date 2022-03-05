@@ -2,7 +2,7 @@
 <h2 align="center">Capítulo 1</h2>
 <br>
 
-## ℹ️ Aula 01
+## ℹ️ Primeiro Componente
 
 - Componentes no react são como se fossem TAGs no HTML, são formas de encapsular uma quantidade de código dentro de um único elemento, e este elemento possui sua própria estrura, estilização e funcionamento.
 - Componentes são formas de dividir a nossa aplicação em pedaços menores que quando conectados formam algo maior, nesse caso a nossa aplicação.

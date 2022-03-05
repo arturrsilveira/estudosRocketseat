@@ -2,7 +2,7 @@
 <h2 align="center">Capítulo 1</h2>
 <br>
 
-## ℹ️ Aula 02
+## ℹ️ Propriedades no REACTJS
 
 - Propriedades no React funcionam como se fossem atributos em uma TAG HTML, são informações varáveis que passamos para que um componente React possa funcionar de forma diferente.
 - No exemplo abaixo possuimos o componente listadeItens e passamos os dados através do atributo item, desta forma o componente listadeItens se comportará diferente conforme as variáveis são passadas.

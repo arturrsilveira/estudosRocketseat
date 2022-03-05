@@ -2,7 +2,7 @@
 <h2 align="center">Capítulo 1</h2>
 <br>
 
-## ℹ️ Aula 03
+## ℹ️ Estados dos Componentes
 
 - Para fazermos o controle de estado dentro da nosso aplicação se faz necessário  a utilização de uma função do React chamado useState.
 - Esta função useSate tem funcionalidade monitorar o estado das variáveis que informarmos para ela, e caso o estado desta variável mude algo será executado.
