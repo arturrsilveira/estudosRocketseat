@@ -1,4 +1,4 @@
-<h1 align="center">Rocketseat Ignite - Trilha React.Js - Chapter II</h1>
+<h1 align="center">Rocketseat Ignite - Trilha React.Js</h1>
 <h2 align="center">Capítulo 1</h2>
 <br>
 
