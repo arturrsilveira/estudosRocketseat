@@ -1,5 +1,5 @@
 <h1 align="center">Rocketseat Ignite - Trilha React.Js</h1>
-<h2 align="center">Capítulo 1</h2>
+<h2 align="center">Capítulo 2</h2>
 <br>
 
 ## ℹ️ Criando um Projeto Utilizando CRA
